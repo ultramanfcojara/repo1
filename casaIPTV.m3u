@@ -7,7 +7,7 @@ http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486613812.jpg" group-title="Chileiptv" , Mega 
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" group-title="Chileiptv" , Chilevisión 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
+https://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529931.png" group-title="Chileiptv" , La Red 
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15509476631.png" group-title="Chileiptv" , TV+ 
@@ -164,6 +164,8 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 https://secure-streams.akamaized.net/rt-esp/index.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521982188.png" group-title="Chileiptv" , FR - France 24 
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , KO - Arirang News 
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522636293.png" group-title="Chileiptv" , INT CGTN Español 
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521990467.png" group-title="Chileiptv" , RU - 24KPbIM 
@@ -208,6 +210,8 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Wow 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , TVN de Culto 
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8 
 
 #EXTINF:-1,Baby First
 http://micine.club:25461/hlhapp/7778881hlhh22/2068?
