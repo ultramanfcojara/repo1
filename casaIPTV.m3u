@@ -209,192 +209,322 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Wow 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Cartoon Network
-https://tecnolive.club/srregio2019/cartoon
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Boomerang
-https://tecnolive.club/srregio2019/boomerang
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Disney Channel
-https://tecnolive.club/srregio2019/disneychannel
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Discovery Kids
-https://tecnolive.club/srregio2019/discoverykids
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Tooncast
-https://tecnolive.club/srregio2019/tooncast
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Nick
-https://tecnolive.club/srregio2019/nick
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Nick Jr
-https://tecnolive.club/srregio2019/nickjr
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Nat Geo Kids
-https://tecnolive.club/srregio2019/natgeokids
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Disney XD
-https://tecnolive.club/srregio2019/disneyxd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Disney Jr
-https://tecnolive.club/srregio2019/disneyjr
+#EXTINF:-1,Baby First
+http://micine.club:25461/hlhapp/7778881hlhh22/2068?
+#EXTINF:-1,Boomerang
+http://micine.club:25461/hlhapp/7778881hlhh22/2065?
+#EXTINF:-1,Cartoon Network
+http://micine.club:25461/hlhapp/7778881hlhh22/2062?
+#EXTINF:-1,Disney Channel
+http://micine.club:25461/hlhapp/7778881hlhh22/2042?
+#EXTINF:-1,Disney JR
+http://micine.club:25461/hlhapp/7778881hlhh22/2041?
+#EXTINF:-1,Disney XD
+http://micine.club:25461/hlhapp/7778881hlhh22/2040?
+#EXTINF:-1,Natgeo Kids
+http://micine.club:25461/hlhapp/7778881hlhh22/1972?
+#EXTINF:-1,Nick
+http://micine.club:25461/hlhapp/7778881hlhh22/1970?
+#EXTINF:-1,Nick 2
+http://micine.club:25461/hlhapp/7778881hlhh22/1969?
+#EXTINF:-1,Nick JR
+http://micine.club:25461/hlhapp/7778881hlhh22/1968?
+#EXTINF:-1,Nicktoons
+http://micine.club:25461/hlhapp/7778881hlhh22/1967?
+#EXTINF:-1,Tiin
+http://micine.club:25461/hlhapp/7778881hlhh22/1944?
+#EXTINF:-1,Tooncast
+http://micine.club:25461/hlhapp/7778881hlhh22/1940?
 
+#EXTINF:-1,A&E
+http://micine.club:25461/hlhapp/7778881hlhh22/2084?
+#EXTINF:-1,AMC
+http://micine.club:25461/hlhapp/7778881hlhh22/2081?
+#EXTINF:-1,Axn
+http://micine.club:25461/hlhapp/7778881hlhh22/2078?
+#EXTINF:-1,Cinecanal
+http://micine.club:25461/hlhapp/7778881hlhh22/2061?
+#EXTINF:-1,Cinemax
+http://micine.club:25461/hlhapp/7778881hlhh22/2060?
+#EXTINF:-1,Comedy Central
+http://micine.club:25461/hlhapp/7778881hlhh22/2056?
+#EXTINF:-1,De Película
+http://micine.club:25461/hlhapp/7778881hlhh22/2054?
+#EXTINF:-1,Distrito Comedia
+http://micine.club:25461/hlhapp/7778881hlhh22/2039?
+#EXTINF:-1,Europa Europa
+http://micine.club:25461/hlhapp/7778881hlhh22/2026?
+#EXTINF:-1,Fox
+http://micine.club:25461/hlhapp/7778881hlhh22/2022?
+#EXTINF:-1,Fox Life
+http://micine.club:25461/hlhapp/7778881hlhh22/2021?
+#EXTINF:-1,Fox Premium Action
+http://micine.club:25461/hlhapp/7778881hlhh22/2020?
+#EXTINF:-1,Fox Premium Cinema
+http://micine.club:25461/hlhapp/7778881hlhh22/2019?
+#EXTINF:-1,Fox Premium Classics
+http://micine.club:25461/hlhapp/7778881hlhh22/2018?
+#EXTINF:-1,Fox Premium Movies
+http://micine.club:25461/hlhapp/7778881hlhh22/2017?
+#EXTINF:-1,Fox Premium Series
+http://micine.club:25461/hlhapp/7778881hlhh22/2016?
+#EXTINF:-1,FX
+http://micine.club:25461/hlhapp/7778881hlhh22/2008?
+#EXTINF:-1,FXM
+http://micine.club:25461/hlhapp/7778881hlhh22/2007?
+#EXTINF:-1,Golden
+http://micine.club:25461/hlhapp/7778881hlhh22/2003?
+#EXTINF:-1,Golden Edge
+http://micine.club:25461/hlhapp/7778881hlhh22/2002?
+#EXTINF:-1,HBO
+http://micine.club:25461/hlhapp/7778881hlhh22/1997?
+#EXTINF:-1,HBO 2
+http://micine.club:25461/hlhapp/7778881hlhh22/1996?
+#EXTINF:-1,HBO Family
+http://micine.club:25461/hlhapp/7778881hlhh22/1995?
+#EXTINF:-1,HBO plus
+http://micine.club:25461/hlhapp/7778881hlhh22/1994?
+#EXTINF:-1,HBO Signature
+http://micine.club:25461/hlhapp/7778881hlhh22/1993?
+#EXTINF:-1,HBO Subtitulado
+http://micine.club:25461/hlhapp/7778881hlhh22/1992?
+#EXTINF:-1,I.Sat
+http://micine.club:25461/hlhapp/7778881hlhh22/1989?
+#EXTINF:-1,Lifetime
+http://micine.club:25461/hlhapp/7778881hlhh22/1982?
+#EXTINF:-1,Paramount
+http://micine.club:25461/hlhapp/7778881hlhh22/1964?
+#EXTINF:-1,Sony
+http://micine.club:25461/hlhapp/7778881hlhh22/1957?
+#EXTINF:-1,Space
+http://micine.club:25461/hlhapp/7778881hlhh22/1956?
+#EXTINF:-1,Studio Universal
+http://micine.club:25461/hlhapp/7778881hlhh22/1955?
+#EXTINF:-1,Syfy
+http://micine.club:25461/hlhapp/7778881hlhh22/1952?
+#EXTINF:-1,TBS
+http://micine.club:25461/hlhapp/7778881hlhh22/1951?
+#EXTINF:-1,TCM
+http://micine.club:25461/hlhapp/7778881hlhh22/1950?
+#EXTINF:-1,Tl Novelas
+http://micine.club:25461/hlhapp/7778881hlhh22/1943?
+#EXTINF:-1,TNT
+http://micine.club:25461/hlhapp/7778881hlhh22/1942?
+#EXTINF:-1,Tnt Series
+http://micine.club:25461/hlhapp/7778881hlhh22/1941?
+#EXTINF:-1,Max Prime
+http://micine.club:25461/hlhapp/7778881hlhh22/2089?
+#EXTINF:-1,Universal Channel
+http://micine.club:25461/hlhapp/7778881hlhh22/1932?
+#EXTINF:-1,Warner
+http://micine.club:25461/hlhapp/7778881hlhh22/1929?
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", NatGeo Wild
-https://tecnolive.club/srregio2019/natgeowild
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", NatGeo
-https://tecnolive.club/srregio2019/natgeo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery ID
-https://tecnolive.club/srregio2019/id
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", History
-https://tecnolive.club/srregio2019/history
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", H2
-https://tecnolive.club/srregio2019/h2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Gourmet
-https://tecnolive.club/srregio2019/gourmet
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery World
-https://tecnolive.club/srregio2019/world
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery Turbo
-https://tecnolive.club/srregio2019/turbo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery Theater
-https://tecnolive.club/srregio2019/teather
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery Science
-https://tecnolive.club/srregio2019/science
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery H&H
-https://tecnolive.club/srregio2019/hh
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery Civilization
-https://tecnolive.club/srregio2019/civilization
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Discovery Channel
-https://tecnolive.club/srregio2019/discoverychannel
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura", Animal Planet
-https://tecnolive.club/srregio2019/animal
+#EXTINF:-1,A3 Series
+http://micine.club:25461/hlhapp/7778881hlhh22/2083?
+#EXTINF:-1,Animal Planet
+http://micine.club:25461/hlhapp/7778881hlhh22/2080?
+#EXTINF:-1,Antena 3
+http://micine.club:25461/hlhapp/7778881hlhh22/2079?
+#EXTINF:-1,Bloomberg
+http://micine.club:25461/hlhapp/7778881hlhh22/2066?
+#EXTINF:-1,CNN en Espanol
+http://micine.club:25461/hlhapp/7778881hlhh22/2059?
+#EXTINF:-1,CNN Internacional
+http://micine.club:25461/hlhapp/7778881hlhh22/2058?
+#EXTINF:-1,CNN USA
+http://micine.club:25461/hlhapp/7778881hlhh22/2057?
+#EXTINF:-1,Congreso de la Unión
+http://micine.club:25461/hlhapp/7778881hlhh22/2055?
+#EXTINF:-1,Discovery Channel
+http://micine.club:25461/hlhapp/7778881hlhh22/2053?
+#EXTINF:-1,Discovery Civilization
+http://micine.club:25461/hlhapp/7778881hlhh22/2052?
+#EXTINF:-1,Discovery HH
+http://micine.club:25461/hlhapp/7778881hlhh22/2051?
+#EXTINF:-1,Discovery Kids
+http://micine.club:25461/hlhapp/7778881hlhh22/2050?
+#EXTINF:-1,Discovery Kids HD
+http://micine.club:25461/hlhapp/7778881hlhh22/2049?
+#EXTINF:-1,Discovery Science
+http://micine.club:25461/hlhapp/7778881hlhh22/2048?
+#EXTINF:-1,Discovery Theater
+http://micine.club:25461/hlhapp/7778881hlhh22/2047?
+#EXTINF:-1,Discovery TLC
+http://micine.club:25461/hlhapp/7778881hlhh22/2046?
+#EXTINF:-1,Discovery TLC HD
+http://micine.club:25461/hlhapp/7778881hlhh22/2045?
+#EXTINF:-1,Discovery Turbo
+http://micine.club:25461/hlhapp/7778881hlhh22/2044?
+#EXTINF:-1,Discovery World
+http://micine.club:25461/hlhapp/7778881hlhh22/2043?
+#EXTINF:-1,DW
+http://micine.club:25461/hlhapp/7778881hlhh22/2038?
+#EXTINF:-1,El Financiero Bloomberg
+http://micine.club:25461/hlhapp/7778881hlhh22/2037?
+#EXTINF:-1,El Gourmet
+http://micine.club:25461/hlhapp/7778881hlhh22/2036?
+#EXTINF:-1,Entertainment
+http://micine.club:25461/hlhapp/7778881hlhh22/2035?
+#EXTINF:-1,Film And Arts
+http://micine.club:25461/hlhapp/7778881hlhh22/2025?
+#EXTINF:-1,Food Network
+http://micine.club:25461/hlhapp/7778881hlhh22/2024?
+#EXTINF:-1,France 24
+http://micine.club:25461/hlhapp/7778881hlhh22/2009?
+#EXTINF:-1,Gala TV
+http://micine.club:25461/hlhapp/7778881hlhh22/2006?
+#EXTINF:-1,Galavision
+http://micine.club:25461/hlhapp/7778881hlhh22/2088?
+#EXTINF:-1,Unimas
+http://micine.club:25461/hlhapp/7778881hlhh22/2087?
+#EXTINF:-1,Garage TV
+http://micine.club:25461/hlhapp/7778881hlhh22/2005?
+#EXTINF:-1,Glitz
+http://micine.club:25461/hlhapp/7778881hlhh22/2004?
+#EXTINF:-1,Havoc
+http://micine.club:25461/hlhapp/7778881hlhh22/2000?
+#EXTINF:-1,History
+http://micine.club:25461/hlhapp/7778881hlhh22/1999?
+#EXTINF:-1,History 2
+http://micine.club:25461/hlhapp/7778881hlhh22/1998?
+#EXTINF:-1,Hola TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1990?
+#EXTINF:-1,Investigation Discovery
+http://micine.club:25461/hlhapp/7778881hlhh22/1986?
+#EXTINF:-1,Investigation Discovery HD
+http://micine.club:25461/hlhapp/7778881hlhh22/1985?
+#EXTINF:-1,Más Chic
+http://micine.club:25461/hlhapp/7778881hlhh22/1981?
+#EXTINF:-1,Natgeo
+http://micine.club:25461/hlhapp/7778881hlhh22/1973?
+#EXTINF:-1,Natgeo Wild
+http://micine.club:25461/hlhapp/7778881hlhh22/1971?
+#EXTINF:-1,NTN 24
+http://micine.club:25461/hlhapp/7778881hlhh22/1966?
+#EXTINF:-1,RT en Espanol
+http://micine.club:25461/hlhapp/7778881hlhh22/1960?
+#EXTINF:-1,RT Noticias
+http://micine.club:25461/hlhapp/7778881hlhh22/1959?
+#EXTINF:-1,SHE
+http://micine.club:25461/hlhapp/7778881hlhh22/1958?
+#EXTINF:-1,Sundance
+http://micine.club:25461/hlhapp/7778881hlhh22/1954?
+#EXTINF:-1,SuresTV
+http://micine.club:25461/hlhapp/7778881hlhh22/1953?
+#EXTINF:-1,Telemundo
+http://micine.club:25461/hlhapp/7778881hlhh22/1837?
+#EXTINF:-1,Tru TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1939?
+#EXTINF:-1,TVC
+http://micine.club:25461/hlhapp/7778881hlhh22/1936?
+#EXTINF:-1,Unicable
+http://micine.club:25461/hlhapp/7778881hlhh22/1933?
+#EXTINF:-1,Univision
+http://micine.club:25461/hlhapp/7778881hlhh22/1838?
+#EXTINF:-1,Wobi TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1928?
+#EXTINF:-1,Afizzionados
+http://micine.club:25461/hlhapp/7778881hlhh22/2069?
+#EXTINF:-1,Aym Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/2077?
+#EXTINF:-1,BeIN Sports Ñ
+http://micine.club:25461/hlhapp/7778881hlhh22/1841?
+#EXTINF:-1,DIRECTV Sports 1
+http://micine.club:25461/hlhapp/7778881hlhh22/1844?
+#EXTINF:-1,DIRECTV Sports 2
+http://micine.club:25461/hlhapp/7778881hlhh22/1843?
+#EXTINF:-1,DIRECTV Sports Plus
+http://micine.club:25461/hlhapp/7778881hlhh22/1842?
+#EXTINF:-1,Espn
+http://micine.club:25461/hlhapp/7778881hlhh22/2034?
+#EXTINF:-1,Espn 2
+http://micine.club:25461/hlhapp/7778881hlhh22/2033?
+#EXTINF:-1,Espn 2 Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2029?
+#EXTINF:-1,Espn 3
+http://micine.club:25461/hlhapp/7778881hlhh22/2032?
+#EXTINF:-1,Espn 3 Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2028?
+#EXTINF:-1,Espn Plus
+http://micine.club:25461/hlhapp/7778881hlhh22/2031?
+#EXTINF:-1,Espn Plus Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2027?
+#EXTINF:-1,Espn Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2030?
+#EXTINF:-1,Fox Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/2015?
+#EXTINF:-1,Fox Sports 2
+http://micine.club:25461/hlhapp/7778881hlhh22/2014?
+#EXTINF:-1,Fox Sports 2 Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2011?
+#EXTINF:-1,Fox Sports 3
+http://micine.club:25461/hlhapp/7778881hlhh22/2013?
+#EXTINF:-1,Fox Sports 3 Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2010?
+#EXTINF:-1,Fox Sports Sur
+http://micine.club:25461/hlhapp/7778881hlhh22/2012?
+#EXTINF:-1,Deportes - Fox Sports Premium
+http://micine.club:25461/hlhapp/7778881hlhh22/2086?
+#EXTINF:-1,Golf Latin America
+http://micine.club:25461/hlhapp/7778881hlhh22/2001?
+#EXTINF:-1,Latin American Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/1983?
+#EXTINF:-1,Movistar Formula 1
+http://micine.club:25461/hlhapp/7778881hlhh22/1825?
+#EXTINF:-1,Movistar Futbol
+http://micine.club:25461/hlhapp/7778881hlhh22/1823?
+#EXTINF:-1,Movistar Golf
+http://micine.club:25461/hlhapp/7778881hlhh22/1826?
+#EXTINF:-1,NBA TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1908?
+#EXTINF:-1,NFL Network
+http://micine.club:25461/hlhapp/7778881hlhh22/1909?
+#EXTINF:-1,Telefórmula
+http://micine.club:25461/hlhapp/7778881hlhh22/1949?
+#EXTINF:-1,TNT Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/1910?
+#EXTINF:-1,TVC Deportes
+http://micine.club:25461/hlhapp/7778881hlhh22/1935?
+#EXTINF:-1,TyC Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/1911?
+#EXTINF:-1,UFC
+http://micine.club:25461/hlhapp/7778881hlhh22/1839?
+#EXTINF:-1,Univision TDN
+http://micine.club:25461/hlhapp/7778881hlhh22/1845?
+#EXTINF:-1,Univision UDN
+http://micine.club:25461/hlhapp/7778881hlhh22/1846?
+#EXTINF:-1,Win Sports
+http://micine.club:25461/hlhapp/7778881hlhh22/1847?
+#EXTINF:-1,WWE Network
+http://micine.club:25461/hlhapp/7778881hlhh22/1840?
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TruTV
-https://tecnolive.club/srregio2019/trutv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TlNovelas
-https://tecnolive.club/srregio2019/tlnovelas
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", TLC
-https://tecnolive.club/srregio2019/tlc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Telemundo
-https://tecnolive.club/srregio2019/telemundo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Sundace TV
-https://tecnolive.club/srregio2019/sundance
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", RCN Telenovelas
-https://tecnolive.club/srregio2019/rcntelenovela
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Pasiones
-https://tecnolive.club/srregio2019/pasiones
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Mas Chic
-https://tecnolive.club/srregio2019/maschic
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Lifetime
-https://tecnolive.club/srregio2019/lifetime
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", HolaTV
-https://tecnolive.club/srregio2019/hola
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Glitz
-https://tecnolive.club/srregio2019/glitz
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Fox Life HD
-https://tecnolive.club/srregio2019/foxlife
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", E!
-https://tecnolive.club/srregio2019/e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Comedy Central HD
-https://tecnolive.club/srregio2019/comedycentral
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Las Estrellas
-https://tecnolive.club/srregio2019/estrellas
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Az Corazon
-https://tecnolive.club/srregio2019/azcorazon
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", MTV
-https://tecnolive.club/srregio2019/mtv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", HTV
-https://tecnolive.club/srregio2019/htv
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Univision Deportes
-https://tecnolive.club/srregio2019/udn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Afizzionados
-https://tecnolive.club/srregio2019/afizzionados
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Win Sports
-https://tecnolive.club/srregio2019/winsport
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Golf Latin America
-https://tecnolive.club/srregio2019/golf
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 
-https://tecnolive.club/srregio2019/foxsportmx
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 2
-https://tecnolive.club/srregio2019/foxsport2mx
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 3
-https://tecnolive.club/srregio2019/foxsport3mx
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 
-https://tecnolive.club/srregio2019/foxsport
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 2
-https://tecnolive.club/srregio2019/foxsport2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Fox Sports 3
-https://tecnolive.club/srregio2019/foxsport3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", ESPN
-https://tecnolive.club/srregio2019/espn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes", Claro Sports
-https://tecnolive.club/srregio2019/clarosport
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Space
-https://tecnolive.club/srregio2019/space
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", A&E
-https://tecnolive.club/srregio2019/ae
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", TCM
-https://tecnolive.club/srregio2019/tcm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", AXN
-https://tecnolive.club/srregio2019/axn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Cinemax
-https://tecnolive.club/srregio2019/cinemax
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Universal Channel
-https://tecnolive.club/srregio2019/universal
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Sony
-https://tecnolive.club/srregio2019/sony
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Multipremier
-https://tecnolive.club/srregio2019/multipremier
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", FXM
-https://tecnolive.club/srregio2019/fxm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Max Prime
-https://tecnolive.club/srregio2019/maxprime
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Cine Dinamita
-https://tecnolive.club/srregio2019/cinedinamita
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", FOX
-https://tecnolive.club/srregio2019/fox
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Paramount
-https://tecnolive.club/srregio2019/paramount
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Canal Claro
-https://tecnolive.club/srregio2019/canalclaro
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", AMC
-https://tecnolive.club/srregio2019/amc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Cinema Plus
-https://tecnolive.club/srregio2019/cinemaplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Warner
-https://tecnolive.club/srregio2019/warner
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Cine latino
-https://tecnolive.club/srregio2019/cinelatino
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", TNT Series
-https://tecnolive.club/srregio2019/tntseries
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", TNT
-https://tecnolive.club/srregio2019/tnt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", FX
-https://tecnolive.club/srregio2019/fx
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Claro cinema
-https://tecnolive.club/srregio2019/clarocinema
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", MaxUp
-https://tecnolive.club/srregio2019/maxup
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", HBO
-https://tecnolive.club/srregio2019/hbo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", HBO Signature
-https://tecnolive.club/srregio2019/hbosignature
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", HBO Family
-https://tecnolive.club/srregio2019/hbofamily
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series",HBO Plus
-https://tecnolive.club/srregio2019/hboplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Comedy
-https://tecnolive.club/srregio2019/foxcomedy
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Movies
-https://tecnolive.club/srregio2019/foxmovies
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Family
-https://tecnolive.club/srregio2019/foxfamily
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Action
-https://tecnolive.club/srregio2019/foxaction
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Series
-https://tecnolive.club/srregio2019/foxseries
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Fox Classic
-https://tecnolive.club/srregio2019/foxclassic
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Golden Premier
-https://tecnolive.club/srregio2019/goldenpremier
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Golden Plus
-https://tecnolive.club/srregio2019/goldenplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series", Golden Plus
-https://tecnolive.club/srregio2019/goldenplus2
+#EXTINF:-1,A Plus
+http://micine.club:25461/hlhapp/7778881hlhh22/2085?
+#EXTINF:-1,ADN 40
+http://micine.club:25461/hlhapp/7778881hlhh22/2082?
+#EXTINF:-1,Az Cinema
+http://micine.club:25461/hlhapp/7778881hlhh22/2076?
+#EXTINF:-1,Az Clic
+http://micine.club:25461/hlhapp/7778881hlhh22/2075?
+#EXTINF:-1,Az Corazón
+http://micine.club:25461/hlhapp/7778881hlhh22/2074?
+#EXTINF:-1,Az Mundo
+http://micine.club:25461/hlhapp/7778881hlhh22/2073?
+#EXTINF:-1,Azteca 7
+http://micine.club:25461/hlhapp/7778881hlhh22/2072?
+#EXTINF:-1,Azteca Uno
+http://micine.club:25461/hlhapp/7778881hlhh22/2070?
+#EXTINF:-1,Canal 5
+http://micine.club:25461/hlhapp/7778881hlhh22/2064?
+#EXTINF:-1,Canal Once
+http://micine.club:25461/hlhapp/7778881hlhh22/2063?
+#EXTINF:-1,Foro TV
+http://micine.club:25461/hlhapp/7778881hlhh22/2023?
+#EXTINF:-1,HMX
+http://micine.club:25461/hlhapp/7778881hlhh22/1991?
+#EXTINF:-1,Imagen TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1988?
+#EXTINF:-1,Ingenio TV
+http://micine.club:25461/hlhapp/7778881hlhh22/1987?
+#EXTINF:-1,Las Estrellas
+http://micine.club:25461/hlhapp/7778881hlhh22/1984?
